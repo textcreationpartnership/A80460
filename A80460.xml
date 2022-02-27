@@ -1,0 +1,277 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The coppie of a letter from Sir Thomas Fairfax his quarters to the Parliament, concerning the great battell betweene Sir Thomas Fairfax and Goring at Langport on Thursday the 10. of July 1645. Where were slaine, 300. dead upon the place. Many caried to Bridgewater. Taken prisoners. 6. colours. 14. Lieutenant Colonels and Majors. 100. Captaines and officers of note. 2000. prisoners. Taken besides. 1200. horse. 40. colours of horse and foot. 4000. armes for horse and foot. 2. peeces of ordnance. 6. cartloads of ammunition. All their bag and baggage that was in the field. L. Gen. Cromwells speech in the head of the armie. 2. garrisons taken from them. A list of the chiefest commanders on our side, that were killed: or wounded. And in what manner the enemies are dispersed into their severall quarters. Also how Major Generall Massey the day before tooke Lievetenant Generall Porter, Lievetenant Generall of Gorings horse ... and the enemie pursued to Bridgewater, ...</title>
+            <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80460</idno>
+            <idno type="STC">Wing C6121</idno>
+            <idno type="STC">Thomason E261_4</idno>
+            <idno type="STC">ESTC R212459</idno>
+            <idno type="EEBO-CITATION">99871074</idno>
+            <idno type="PROQUEST">99871074</idno>
+            <idno type="VID">159304</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80460)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159304)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 44:E261[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The coppie of a letter from Sir Thomas Fairfax his quarters to the Parliament, concerning the great battell betweene Sir Thomas Fairfax and Goring at Langport on Thursday the 10. of July 1645. Where were slaine, 300. dead upon the place. Many caried to Bridgewater. Taken prisoners. 6. colours. 14. Lieutenant Colonels and Majors. 100. Captaines and officers of note. 2000. prisoners. Taken besides. 1200. horse. 40. colours of horse and foot. 4000. armes for horse and foot. 2. peeces of ordnance. 6. cartloads of ammunition. All their bag and baggage that was in the field. L. Gen. Cromwells speech in the head of the armie. 2. garrisons taken from them. A list of the chiefest commanders on our side, that were killed: or wounded. And in what manner the enemies are dispersed into their severall quarters. Also how Major Generall Massey the day before tooke Lievetenant Generall Porter, Lievetenant Generall of Gorings horse ... and the enemie pursued to Bridgewater, ...</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Barnard Alsop, and Iane Coe.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At foot of title, above imprint: Appointed to be printed, and pubished according to order.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "July 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Goring, George Goring, --  Baron, 1608-1657.</term>
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159304:1" rendition="simple:additions"/>
+            <p>THE COPPIE OF A LETTER From Sir <hi>Thomas Fairfax</hi> his Quarters to the Parliament, concerning the great Battell betweene Sir THOMAS FAIRFAX and <hi>Goring</hi> at <hi>Langport</hi> on Thurſday the 10. of July 1645.</p>
+            <p>Where were ſlaine, </p>
+            <p>300. <hi>Dead upon the place.</hi>
+            </p>
+            <p>
+               <hi>Many caried to Bridgewater.</hi>
+            </p>
+            <p>Taken priſoners.
+<list>
+                  <item>6. <hi>Colours.</hi>
+                  </item>
+                  <item>14. <hi>Lieutenant Colonels and Majors.</hi>
+                  </item>
+                  <item>100. Captaines and Officers of Note.</item>
+                  <item> 2000. <hi>Priſoners.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Taken beſides.
+<list>
+                  <item>1200. <hi>Horſe.</hi>
+                  </item>
+                  <item>40. <hi>Colours of Horſe and Foot.</hi>
+                  </item>
+                  <item>4000. <hi>Armes for horſe and foote.</hi>
+                  </item>
+                  <item>2. <hi>Peeces of Ordnance.</hi>
+                  </item>
+                  <item>6. <hi>Cartloades of Ammuni<g ref="char:EOLhyphen"/>tion.</hi>
+                  </item>
+                  <item>
+                     <hi>All their Bag and Baggage that was in the field.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>L. Gen.</hi> Cromwells <hi>ſpeech in the head of the Armie.</hi>
+            </p>
+            <p>2. <hi>Garriſons taken from them. </hi>
+            </p>
+            <p>
+               <hi>A liſt of the Chiefeſt Com<g ref="char:EOLhyphen"/>manders on our ſide, that were killed: or wounded.</hi>
+            </p>
+            <p>
+               <hi>And in what manner the E<g ref="char:EOLhyphen"/>nemies are diſperſed into their ſeverall quarters.</hi>
+            </p>
+            <p>Alſo how Maior Generall <hi>Maſſey</hi> the day before tooke Lievetenant Generall <hi>Porter,</hi> Lievetenant Generall of <hi>Gorings</hi> Horſe
+<list>
+                  <item>2 Segeant Majors.</item>
+                  <item>9. <hi>Colours.</hi>
+                  </item>
+                  <item> 6. <hi>Captaines.</hi>
+                  </item>
+                  <item>250. <hi>Horſe.</hi>
+                  </item>
+                  <item>
+                     <hi>Many inferiour Officers.</hi>
+                  </item>
+                  <item>200. <hi>Priſoners and divers ſlaine.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>And the Enemie purſued to <hi>Bridgewater,</hi> and all the paſſa<g ref="char:EOLhyphen"/>ges blockt up both by land and water.</p>
+            <p>Appointed to be Printed, and pubiſhed according to Order.</p>
+            <p>Printed By <hi>Barnard Alſop,</hi> and <hi>Iane Coe.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:159304:2"/>
+            <pb facs="tcp:159304:2"/>
+            <head>THE COPY OF A LETTER FROM Sir THOMAS FAIRFAXES Quarters, read in the Houſe of Commons on Saturday Iuly 12. 1645.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <seg rend="decorInit">A</seg>N account I gave you in my laſt, of our Affairs till ye<g ref="char:EOLhyphen"/>ſterday, I left <hi>Goring</hi> with his whole Army, at Lang<g ref="char:EOLhyphen"/>port; ſince they be pleaſed to take a ſhort account of our Actions, yeaſterday wee advanced to Sutton, drawing out that part of our Army which we had into Sutton Field, the reſt being foure thouſand five hundred Horſe and Dra<g ref="char:EOLhyphen"/>goones (at the leaſt) under the command of Major Gen. <hi>Maſsy,</hi> were on the other ſide of the river, &amp; thoſe 8 regiments of Foot which we had at <hi>Nasby</hi> field,
+<pb n="2" facs="tcp:159304:3"/>were alſo quartered at Martock to <hi>M<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſſey</hi> advanced with his hor<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe, and Dragoones, having foot to back them to North-ca<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ry (being ordered to ſtreighten the enemies quarters, and to hinder them from any plundering exerciſe; It ſeems 500 of the<g ref="char:EOLunhyphen"/>m being upon a deſign out, and having no intelligence of his being in motion, was ſurpriſed being in a careleſſe poſture; fell on them: being (as I take it) 9 Colours, 200 priſoners, and a<g ref="char:EOLhyphen"/>bout 250 ho<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe<g ref="char:punc">▪</g> ſlew about 30<g ref="char:punc">▪</g> wee in the meane time were drawn up within a mile of Lang-port, with thoſe horſe and foot the Generall had with him, not knowing of his en<g ref="char:EOLhyphen"/>gagement. And there being 3 Rivers between him, and us, and the way almoſt twelve miles march, the laſt might wee quartered at Sutton, and this morning by three of the clock, drew out into Sutton field, having with us but ſeven Regiments of horſe; <hi>viZ.</hi> The Generalls (formerly called Lievtenant Ge<g ref="char:EOLhyphen"/>nerall <hi>Crumwels</hi>) <hi>Whalleyes Varmodeus, Grac<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſoes, Rich, Fleet<g ref="char:EOLhyphen"/>woods,</hi> and <hi>Butlers,</hi> which were not in all 2000 horſe, of foot we had all, but the Muskettiers of three Regiments, having ſent for them the laſt night from Matlock, early in the morning the e<g ref="char:EOLhyphen"/>nemies appeared in the field, and about 7 a clock they had made themſelves maſters of a p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſe which lay in the midſt between our body and theirs, had lined the hedges between us and them, with at leaſt 2000 muskettiers; ſo that the paſſage to them was extream dangerous, being ſo ſtreight, that four horſe could hardly paſſe abreſt, and that up to the belly in water; they lying ſo in flanks and fronts to receive us. In that poſture they ſtood till nigh eleven of the clock, having in the interim ſent away moſt of their Traine, and Baggage, led horſe and other lumber, to Bridgwater; being reſolved to make good their retreat thi<g ref="char:EOLhyphen"/>ther, which they conceived they could, having ſuch an advanta<g ref="char:EOLhyphen"/>geous paſſe thither; we underſtanding their intentions by ſome Scouts, and other countrymen, reſolved to charge them; and accordingly drew down a commanded party of muskettiers to beat them from the hedges, which was done with gallant re<g ref="char:EOLhyphen"/>ſolution; advancing the ſame time with two Regiments of horſe into the lane, all that we could draw up in the front was but a
+<pb n="3" facs="tcp:159304:3"/>ſingle troop, and that comm<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nded by <hi>Bethell,</hi> the enemy ſtand<g ref="char:EOLhyphen"/>ing ready with 3 bodies of horſe, of about 1000 to charge him, he with a ſingle troop charged and broke two of their diviſi<g ref="char:EOLhyphen"/>ons, of about 400 received the charge of the third diviſion both in front and flank, was ſomewhat overborne at laſt, and forced to retire to the Generals Reg ment, which was about 100 yards behind D borrough, with the Generals troop ſheltred him by his flank to rally, and charge up himſelfe with about 200 horſe of the Generals Regiment, diſpoſeſt the enemy and ſet them all a running, gained freedome by it for all our horſe and foot, to draw into bodies, ſent the enemy running, not being able to en<g ref="char:EOLhyphen"/>dure another charge, the Generall, Lievtenant Generall, and ſome other officers upon the hill, beholding the gallant charges commended it, for the moſt excellent peece of ſervice that ever was in England, we had them in chaſe almoſt to Bridg-water, having put them to the clean rout, that ever any enemy were put to; what the number of the ſlain be I cannot tell you, being ſearſe come from the chaſe. The priſoners come in already are 900. and I conceive there will come in as many as will make 2000. and 12000 horſe at the leaſt; for Colours I am uncertaine, I dare ſay at leaſt 40. the Armes at leaſt 4000. 2 peece of Ord<g ref="char:EOLhyphen"/>nance I ſaw, and divers carriages of Ammunition, and to make it a compleat victory, he purſued the enemy through Lang<g ref="char:EOLhyphen"/>port, having gained the Garriſon, and though they fired the town juſt at the Bridge, to hinder the chaſe, yet we followed the victory through the fire, the ſucceſſe of this victory muſt be aſcribed next unto God) to the good conduct of the Ge<g ref="char:EOLhyphen"/>nerall, and <hi>Crumwels</hi> following the chaſe through Langpord, where he himſelfe paſſed through the fire flaming on both ſides of him. The enemy cryed out, they are now utterly undone, and that the King muſt now goe into Ireland. This victory was opportune, In regard, had they ſtayed but three dayes longer, <hi>Goring</hi> would have had a reinforcement of ſix thou<g ref="char:EOLhyphen"/>ſand horſe and foot from <hi>Greenffeld</hi> and the King, they being tranſporting their forces as faſt as can be to Mainhead, Watch<g ref="char:EOLhyphen"/>head, and Uphill, there being 1500 that landed at Uphill,
+<pb n="2" facs="tcp:159304:4"/>came to Bridgewater yeſterday. Sir, this is all at preſent from your affectionate and humble ſervant.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Langport</hi>
+                        <date>
+                           <hi>July</hi> 10. 7 at night.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <div type="part">
+            <head>The report of the Scout that brought the aforeſaid letter, which is here placed by way of poſtſcript for further ſatisfaction<g ref="char:punc">▪</g>
+            </head>
+            <p>On wedneſday the ninth of July 1645. there were 1500 of the enemies commanded by Liutenant generall <hi>Porter,</hi> who lay at Aberſile, on whom Major generall <hi>Maſsy</hi> fell before the E<g ref="char:EOLhyphen"/>nemy were aware of it; with Colonell <hi>Maſsy</hi> were Lieutenant <hi>Bull,</hi> Maior <hi>Sanderſon,</hi> Colonel <hi>VVeb,</hi> and ſome other officers, who with the common ſouldiers behaved themſelves gallantly, the enemy about 3 of the clock grazing their horſes, and ha<g ref="char:EOLhyphen"/>ving made works about Aberſile Church, and in exceeding good quarters, little thinking Maſſy ſo neer, had ſet a ſmall guard of foot at the towns end, Major generall Maſſy drew his men into two diviſions, for each end of the town one, himſelfe commanded one, and Capt. Gutredge the other, which was but aſmall party: for C. Maſſy commanded the main body him<g ref="char:EOLhyphen"/>ſelfe, Maſsies men marched with green boughes in their hats, C. Gutridge comming to the towns end, found the hedges lined with Muskettiers at the ſouthweſt end of the town, Cap. Franſ<g ref="char:EOLhyphen"/>way, a Dutch Captain, commanded a party to fall on the one ſide of the ambuſcadors, and Capt. Gutredge on the other. The Dutch Captain when he was charged by the enemy, began to face about, which impeded Capt. Gutredges proſecution of the buſines, yet the reſt of the officers and ſouldiers, with the wiſdome of Capt. Gutredge, ended the buſineſſe ſo well, that they beat up their ambuſcadors for all that, and drove them quite away: in the mean time Maior Gere all Maſſy marched up to the other ſide of the Town, Colonell Cook having the command of the forlorn hope, who in like manner had lined the hedges at that end of the town, and Col: Maſsy with Co: Cook and the reſt, raiſed them, and thoſe with the reſt at the other end of town, followed ſo hard upon the enemy, that they drove
+<pb n="3" facs="tcp:159304:4"/>them all from the town, purſuing them within two miles of Langport, and took many Armes in Aberſoile. Maior Generall Maſſys word was <hi>VVales,</hi> the enemy ſtaid not give any word at all. On Thurſday the tenth of Iuly Sir Tho: Fairfax march<g ref="char:EOLhyphen"/>ed toward the enemy, diſcovered them when hee was with his body by the windmils, between Lamport and Summerton, the enemy were then on the Hills in Lamport field about two mile and a half off, the water being between them. About eleven of the clock they drew out, and about one of the clock Maior Be<g ref="char:EOLhyphen"/>thel charged the enemy: the fight was very hot, and laſted about two hours, about 3 of the clock Goring was got himſelfe into Bridgewater, Prince Charles bein gone from thence before, and the Lord Hopton with him to Barnſtable with three Troops of Horſe, to raiſe what forces they could in thoſe parts, to ioyne wi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h thoſe which were to come from Greenvill. Rupert was gone to the King before alſo to ſend what ſtrength he could to ioyn with them, and Greenvils horſe, as appeared afterwards, were then upon their march toward Goring, and alſo Sir John Barkley was before drawn off, upon ſome diſcontent or other towards Exceter, but, is beleeved, returning with Greenvill. Sir Thomas Aſton was then with Goring, who hath a regiment in which are good ſtore of Papiſtr, but hee ranne away like a baſe Coward. and the greateſt part of his Regiment are taken, of which the poore county men are not a little glad, for they have been extream cruell in plundering. Sir Lewis Dives was then in Sherburn, it ſeems he loves a garriſon better then the field, and holds it more ſecure. The Cavaliers ſeem to be very ſorrowful for their loſſes, we perceive by them, that they have loſt ſome conſiderable men, but will not be known who they are.</p>
+            <p>Sir Thomas Fairfax quartered that night at Oller, ſour miles from Bridgwater, Maior Generall Maſſy is ioyned with him, where he blocked up that ſide of their garriſon, Lieutenant Ge<g ref="char:EOLhyphen"/>nerall Crowell making a ſpeech in the head of the Army, de<g ref="char:EOLhyphen"/>claring how the enemies paſſage by water might be ſtopped up, whereupon a party of 1500 horſe and Dragoons were ſent to block up the weſt ſide for the ſame purpoſe</p>
+         </div>
+         <div type="part">
+            <pb n="6" facs="tcp:159304:5"/>
+            <list>
+               <head>A liſt of Major generall <hi>Maſſeys</hi> victorie at North-Carry on Wedneſday the <hi>9.</hi> of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uly. <hi>16<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>5.</hi>
+               </head>
+               <item>1500. Routed which were ſurpriſed by Colonell MASSEY.</item>
+               <item>9. Colours taken from the ſaid partie of 1500.</item>
+               <item>Levetenant Generall Porter Lieuetenant Gene<g ref="char:EOLhyphen"/>rall of Gorings horſe taken priſoner.</item>
+               <item>2500. Horſe and armes taken from them at the ſame time.</item>
+               <item>2. Serjant Majors taken priſoners, and 6 Captains.</item>
+               <item>200. of their inferiour officers and common men taken priſoners.</item>
+            </list>
+            <list>
+               <head>A liſt of the particulars what was taken, and how many flaine at the Routing of <hi>Goring</hi> by Sir <hi>Thomas Fairfax,</hi> at Lang<g ref="char:EOLhyphen"/>port <hi>on Thurſday the 10. of July, 1645.</hi>
+               </head>
+               <item>300. Slaine, and left dead upon the place.</item>
+               <item>Divers officers Carried dead and ſome wounded into Bridge<g ref="char:EOLhyphen"/>water.</item>
+               <item>6. Collonells, ſome of which are notorious incendiaries</item>
+               <item>14. Leivenant Collonells and Sejeant Maiors.</item>
+               <item>100. Captains, and Reformadoes, and other officers of note.</item>
+               <item>2000. Priſoners: whereof divers inferiour officers.</item>
+            </list>
+            <list>
+               <head>Taken beſides</head>
+               <item>1200. horſe.</item>
+               <item>40. Colours of horſe, and foot,</item>
+               <item>4000. Armes piſtols Carbines, firelocks, muskets pikes &amp;c.</item>
+               <item>2. Peeces of ordnance.</item>
+               <item>6. Cart loade of Ammunition, powder match, &amp;c.</item>
+               <item>All their bagg, and baggage which they had left in the field</item>
+            </list>
+            <list>
+               <head>The loſſe on our ſide.</head>
+               <item>2. Reformado Captains: one of them a dutch man both ſlain.</item>
+               <item>Collonell <hi>Butlers</hi> Captaine Leivetenant ſlaine, and his Cor<g ref="char:EOLhyphen"/>net let fall his Colours, but they were honourably regained.</item>
+               <item>Colonell <hi>Butler,</hi> a ſlight cut on the arme.</item>
+               <item>Colonell <hi>Edward Cooke</hi> ſhot on the mouth, only on the upper lippe, the hurt not much.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
